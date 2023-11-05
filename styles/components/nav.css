@@ -1,0 +1,29 @@
+.nav {
+  @apply fixed top-0 left-0 right-0 bottom-0 text-sm font-semibold text-gray-600 bg-white h-screen;
+}
+
+.nav-menu {
+  @apply h-full px-3 py-2.5;
+}
+
+.nav-menu li {
+  @apply py-0.5;
+}
+
+.dropdown {
+  @apply px-2 text-gray-950/75 rounded shadow-inner bg-gray-400/10 -z-30;
+  display: none;
+}
+.show {
+  display: block;
+}
+
+.arrow::after {
+  content: "";
+  display: inline-block;
+  margin-left: 0.28em;
+  vertical-align: 0.09em;
+  border-top: 0.42em solid;
+  border-right: 0.32em solid transparent;
+  border-left: 0.32em solid transparent;
+}
