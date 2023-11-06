@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ico-link-arrow" transform="translate(9928 3288)">
+    <path id="패스_256" data-name="패스 256" d="M8.464,7.757,7.05,9.172,9.879,12,7.05,14.828l1.414,1.414L12.707,12Z" transform="translate(-9929.74 -3290)"/>
+    <path id="패스_257" data-name="패스 257" d="M11.293,9.172l1.414-1.414L16.95,12l-4.243,4.243-1.414-1.414L14.121,12Z" transform="translate(-9930.26 -3290)"/>
+    <path id="패스_258" data-name="패스 258" d="M1,11A10,10,0,1,0,11,1,10,10,0,0,0,1,11Zm1.818,0A8.182,8.182,0,1,0,11,2.818,8.182,8.182,0,0,0,2.818,11Z" transform="translate(-9929 -3289)" fill-rule="evenodd"/>
+  </g>
+</svg>

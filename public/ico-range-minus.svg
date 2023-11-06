@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="ico-range-minus" transform="translate(-1005 -635)">
+    <g id="사각형_2322" data-name="사각형 2322" transform="translate(1005 635)" fill="red" stroke="red" stroke-width="2.5">
+      <rect width="27" height="27" rx="4" stroke="none"/>
+      <rect x="1.25" y="1.25" width="24.5" height="24.5" rx="2.75" fill="none"/>
+    </g>
+    <line id="선_91" data-name="선 91" x2="16" transform="translate(1010.5 648.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

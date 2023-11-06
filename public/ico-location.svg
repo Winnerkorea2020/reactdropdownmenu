@@ -1,0 +1,15 @@
+<svg id="ico_location" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M6.922,19.327C2.264,14.511,0,10.806,0,8A8,8,0,0,1,16,8c0,2.806-2.264,6.511-6.922,11.327l-.035.035a1.5,1.5,0,0,1-2.121-.035ZM2,8c0,2.133,2.075,5.44,6,9.562,3.925-4.123,6-7.43,6-9.562A6,6,0,0,0,2,8ZM6,8a2,2,0,1,1,2,2A2,2,0,0,1,6,8Z" transform="translate(2)"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="30" height="30" fill="none"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="20" height="20" transform="translate(5 5)" fill="none"/>
+  <g id="ic" transform="translate(5 5)">
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M6.922,19.327C2.264,14.511,0,10.806,0,8A8,8,0,0,1,16,8c0,2.806-2.264,6.511-6.922,11.327l-.035.035a1.5,1.5,0,0,1-2.121-.035ZM2,8c0,2.133,2.075,5.44,6,9.562,3.925-4.123,6-7.43,6-9.562A6,6,0,0,0,2,8ZM6,8a2,2,0,1,1,2,2A2,2,0,0,1,6,8Z" transform="translate(2)"/>
+    <g id="ic-2" data-name="ic" clip-path="url(#clip-path)">
+      <rect id="color" width="20" height="20" fill="#222"/>
+    </g>
+  </g>
+</svg>
